@@ -1,0 +1,1 @@
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/tools/python/../../python_examples/dlib.so

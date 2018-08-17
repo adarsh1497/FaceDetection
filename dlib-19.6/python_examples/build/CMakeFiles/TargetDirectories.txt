@@ -1,0 +1,14 @@
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/CMakeFiles/install.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/CMakeFiles/list_install_components.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/CMakeFiles/rebuild_cache.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/CMakeFiles/dlib_.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/CMakeFiles/install/strip.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/CMakeFiles/install/local.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/CMakeFiles/edit_cache.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/dlib_build/CMakeFiles/install.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/dlib_build/CMakeFiles/list_install_components.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/dlib_build/CMakeFiles/dlib.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/dlib_build/CMakeFiles/install/local.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/dlib_build/CMakeFiles/install/strip.dir
+/home/adarsh/adarsh/Machine_Learning_in_Action/FaceDetection/dlib-19.6/python_examples/build/dlib_build/CMakeFiles/edit_cache.dir
